@@ -1,0 +1,8 @@
+# Build artifacts and proprietary binaries
+*.so
+*.o
+vrcompositor.real
+vrcompositor.bin
+vrcompositor.bin.orig
+__pycache__/
+*.pyc
